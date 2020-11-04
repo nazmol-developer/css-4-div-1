@@ -1,0 +1,225 @@
+*{margin:0;
+  padding: 0;}
+
+
+/*first section*/
+.bis{ text-align: center;
+	width:100%;
+	height:60px;
+	display: inline-block;}
+
+.bis img { width:500px;
+	height: 50px;
+	background-size: cover;
+	background-position: center;
+	border-radius: 40px;
+	margin-top:5px;
+	display: inline-block; }
+
+.body{ background-color: rgb(34,139,34, 0.8);}
+
+
+/* header section */
+header{width:100%;
+	height:130px;}
+
+.header-contant{width:100%;
+	height:130px;
+	background-color: rgb(255,182,193, 0.8);
+	display: inline-block;}
+
+
+
+.logo{ display: inline-block;
+	margin-top:80px; }
+
+.logo img{ border-radius: 30px; }
+
+
+.logo1{ width:150px;
+	height:150px;
+	float:left;}
+
+.logo1 img{ width:76%;
+	margin:10px;
+	margin-left:600px;
+	border-radius: 30px 10px 30px 10px;}
+
+.header-menu{ width:50%;
+	height: 100px;
+	float:right;}
+
+.header-menu ul{ list-style: none;
+	margin: 80px 0px 5px;
+	margin-left:30%;}
+
+.header-menu ul li{ float:left;
+	color: white;
+	margin: 10px;
+	font-size:20px;}
+
+
+/* banner section */
+.banner{ width:100%;
+	height:600px;
+	background-image:url('images/bggg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;}
+
+
+.container{ width:80%;
+	margin: 0 auto;}
+
+.banner-text{ width: 30%;
+	display: inline-block;
+    margin-top: 16%;
+    margin-left: 40px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, .7 );
+    padding: 59px;
+    border-radius: 80px 10px 80px 10px;}
+
+.banner-text h1{ color:white;
+	font-size:50px;}
+
+.banner-text p{ color:white;
+	margin-top: 9%;}
+
+.btn{ background-color: rgb(50, 116, 109);
+    border: none;
+    padding: 10px 37px;
+    margin-top: 5%;
+    border-radius: 8px;}
+
+.btn a{ text-decoration: none;
+    color: white;
+    font-size: 16px;}
+
+
+/* about us section */
+
+.about-us{ width: 100%;
+    height: 400px;
+    display: inline-block;}
+
+.heading{ text-align: center;
+	font-size: 30px;
+	margin-top: 30px;}
+
+.about-text{ width:40%;
+	height: 200px;
+	float:left;
+	margin-top:5%;
+	margin-left:50px;
+	display: inline-block;}
+
+.about-text h2{ display: inline-block;
+	margin:30px;}
+
+.about-text p{}
+
+.about-text img{ width: 600px;
+    height: 300px;
+    float:left;
+    border-radius: 80px 5px 80px 5px;}
+
+.btn={}
+
+.center{text-align: center;}
+
+
+/*contact section*/
+
+.contact{ display: inline-block;
+	margin-top:5%;}
+
+.contact h1{ margin-left:130px;}
+
+.heading1{ text-align: center;
+	font-size: 30px;}
+
+.variation{ width:40%;
+	height: 200px;
+	float:left;
+	margin-top:5%;
+	margin-left:50px;
+	display: inline-block; }
+
+.mep{ display: inline-block; }
+
+.mep1{ display: inline-block;
+	margin:30px 50px; }
+
+.mep1 img{ width:500px;
+	height:300px;
+	float: right;
+	display: inline-block;
+	margin:10px 50px;
+	border-radius: 5px 50px 5px 50px; }
+
+
+/*reviews section*/
+
+.reviews{ display: inline-block;
+	text-align: center; }
+
+.reviews h1{ text-align: center;
+	margin-top:0px;
+	margin-bottom:70px;
+	margin-left:130px;}
+
+.pic{ display: inline-block;
+	margin-left: 100px;
+ 	float: right;}
+
+.pic img{ width:250px;
+	height:200px;
+	margin:10px;
+	margin-top:0px;
+	margin-left:20px;
+	border-radius: 50px ; }
+
+
+/*follow section*/
+
+.follow{}
+
+.follow1{margin-left:100px;
+	display: inline-block;
+	float: left;
+	margin:50px 50px;
+	text-align: center;}
+
+.follow2{ margin-left:100px; }
+
+.follow3{display: inline-block;
+	width:800px;
+	float: right;
+	margin:20px 50px; }
+
+/*copyright section*/
+
+.copyright{width:100%;
+	height:40px;
+	margin-bottom:30px;
+	float: left;
+	display: inline-block;}
+
+.copyright p{margin:20px 500px;}
+
+
+
+
+
+.course{margin:40px auto;}
+
+.course h1{}
+
+.course-list{margin-left:80px;
+margin-bottom: 60px;}
+
+.course-list h2{color: yellow; font-size: 40px;}
+
+.course-list h2 img{width: 200px; height: 100px;
+margin-left:80px;}
