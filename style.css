@@ -158,6 +158,20 @@ header{width:100%;
 	margin:10px 50px;
 	border-radius: 5px 50px 5px 50px; }
 
+/*course section*/
+
+.course{margin:40px auto;}
+
+.course h1{}
+
+.course-list{margin-left:80px;
+margin-bottom: 60px;}
+
+.course-list h2{color: yellow; font-size: 40px;}
+
+.course-list h2 img{width: 200px; height: 100px;
+margin-left:80px;}
+
 
 /*reviews section*/
 
@@ -210,16 +224,3 @@ header{width:100%;
 
 
 
-
-
-.course{margin:40px auto;}
-
-.course h1{}
-
-.course-list{margin-left:80px;
-margin-bottom: 60px;}
-
-.course-list h2{color: yellow; font-size: 40px;}
-
-.course-list h2 img{width: 200px; height: 100px;
-margin-left:80px;}
